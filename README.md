@@ -1,9 +1,8 @@
-# Halo semua! 
-Perkenalkan nama saya **Muhammad Fadillah Rizky**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/fadillahmuhammad/)ku ya.
+# Hello Everyone! 
+Allow me to introduce Myself, my name is **Muhammad Fadillah Rizky**.\
+Currently, taking part as a cohort Mobile development **Bangkit 2023 batch 2**.\
+I am very interested in mobile development, especially development using **Java, Kotlin, Dart, and Flutter**.\
+If you are interested in getting to know me, please follow my account on [**LinkedIn**](https://www.linkedin.com/in/fadillahmuhammad/).
  
 <p align="left">
 <a href="https://github.com/fadillahmuhammad">
