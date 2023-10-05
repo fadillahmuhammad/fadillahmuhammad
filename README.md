@@ -1,6 +1,6 @@
 # Hello Everyone! 
 Allow me to introduce Myself, my name is **Muhammad Fadillah Rizky**.\
-Currently, taking part as a cohort Mobile development **Bangkit 2023 batch 2**.\
+Currently, taking part as a cohort **Mobile development Bangkit 2023 batch 2**.\
 I am very interested in mobile development, especially development using **Java, Kotlin, Dart, and Flutter**.\
 If you are interested in getting to know me, please follow my account on [**LinkedIn**](https://www.linkedin.com/in/fadillahmuhammad/).
  
